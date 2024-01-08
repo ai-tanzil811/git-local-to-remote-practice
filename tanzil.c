@@ -3,6 +3,10 @@ int tanzil(int x)
 {
 return 5*x;
 }
+int gebjam(int x)
+{
+return 5*x;
+}
 int main()
 {
 int x;

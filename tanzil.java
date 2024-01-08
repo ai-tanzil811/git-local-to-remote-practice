@@ -3,3 +3,6 @@ class tanzil{
         System.out.println("tanzil");
     }
 }
+class dinasour{
+    System.out.println("this is a dinasour");
+}
