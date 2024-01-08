@@ -1,4 +1,8 @@
 #include<stdio.h>
+int tanzil(int x)
+{
+return 5*x;
+}
 int main()
 {
 int x;
@@ -19,5 +23,6 @@ printf("*");
 }
 printf(" \n");
 }
+
 return 0;
 }
