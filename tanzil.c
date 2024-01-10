@@ -31,4 +31,6 @@ printf(" \n");
 return 0;
 }
 //add another fumction for palindrome 12-10-20
+// add 
+
 
