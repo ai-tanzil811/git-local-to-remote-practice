@@ -30,7 +30,17 @@ printf(" \n");
 
 return 0;
 }
-//add another fumction for palindrome 12-10-20
-// add 
+int palindrome(int x)
+{
+int pal=0;
+int temp;
+int temp=x;
+while (temp!=0)
+{
+temp=x%10;
+pal = pal*10+x;
+temp= temp/10;
+}
+
 
 
